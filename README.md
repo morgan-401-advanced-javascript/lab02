@@ -3,8 +3,8 @@
 ### Author: Morgan T. Shaw
 
 ### Links and Resources
-* [submission PR](http://xyz.com)
-* [travis](http://xyz.com)
+* [submission PR](https://github.com/morgan-401-advanced-javascript/lab02/pull/1)
+* [travis](https://www.travis-ci.com/morgan-401-advanced-javascript/lab02/builds/130128780)
 * [back-end](http://xyz.com) (when applicable)
 * [front-end](http://xyz.com) (when applicable)
 
