@@ -13,7 +13,10 @@
   "author": "Morgan T Shaw",
   "license": "ISC",
   "devDependencies": {
-    "eslint": "^6.1.0",
+    "eslint": "^6.5.1",
     "jest": "^24.9.0"
+  },
+  "dependencies": {
+    "faker": "^4.1.0"
   }
 }

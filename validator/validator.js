@@ -70,12 +70,12 @@ validator.isValid = (schema,data) => {
       ? validator.isTruthy(data[fieldName])
       : true;
 
-      // Am I the right type (if we even care)
+    // Am I the right type (if we even care)
     let type = field.type
       ? validator.isCorrectType(data[fieldName], field)
       : true;
 
-      // If anything is false ...
+    // If anything is false ...
     if (!(required && type)) {
       valid = false;
     }
